@@ -1,2 +1,1 @@
-web: gunicorn welcome.wsgi
-DISABLE_COLLECTSTATIC=1
+web: gunicorn gettingstarted.wsgi
